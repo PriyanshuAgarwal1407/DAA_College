@@ -1,0 +1,8 @@
+# Ignore compiled binaries in repo root
+/InsertionSort
+/queue
+/a.out
+
+# Common C build artifacts
+*.o
+*.out
