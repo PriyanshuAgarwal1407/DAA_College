@@ -1,6 +1,9 @@
 # Ignore compiled binaries in repo root
 /InsertionSort
 /queue
+/quickSort
+/BinarySearch
+/BubbleSort
 /a.out
 
 # Common C build artifacts
